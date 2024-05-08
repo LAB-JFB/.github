@@ -8,3 +8,4 @@ We have previously shown that a small group of smooth muscle cells undergo clona
 
 Other work in the lab on the interactions of low-density lipoproteins with the arterial wall and on developing non-invasive imaging techniques to detect and quantify atherosclerotic plaques and their internal processes.
 
+<p align="center"><img src="https://github.com/LAB-JFB/.github/assets/1359078/02a8e457-f788-4e4c-b0a3-8b27cbb4b15b" /></p>
